@@ -1,8 +1,12 @@
-# terminalLines
+# Terminal Lines
 
 Lined Terminal Background Images
 
-ayo fam, so these are some images I generated for terminal lines. They work with Windows Terminal, and probably others. You should be using pixmaps, but my experience with them is bad - But pngs work well enough.
+ayo fam, so these are some images I generated for terminal lines. They work with Windows Terminal, and probably others. You should be using pixmaps, but my experience with them is bad - But pngs work well enough. This most-likely does not work with alternative fonts. 
+
+This is using 12pt Jetbrains Mono Semi-Bold. 
+
+If anyone has information about how to deal with sizing in-between monospaced fonts, I'd appreciate it. As it stands currently, the only method I can see is doing these manually.
 
 In Windows Terminal - Open Settings > Appearance
 
